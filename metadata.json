@@ -1,0 +1,6 @@
+{
+  "name": "Arduino Control Studio – Ultimate Edition",
+  "description": "Professional Arduino development, 3D robot builder studio, real-time hardware servo synchronization, pin controller, timeline sequencer, and AI assistant.",
+  "requestFramePermissions": ["serial"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
